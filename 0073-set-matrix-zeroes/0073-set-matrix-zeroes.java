@@ -2,10 +2,10 @@ class Solution {
     public void setZeroes(int[][] matrix) {
         int n=matrix.length;
         int row[]=new int[n];
-        Arrays.fill(row, 0);
+        //Arrays.fill(row, 0);
         int m=matrix[0].length;
         int column[]=new int[m];
-        Arrays.fill(column, 0);
+       // Arrays.fill(column, 0);
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(matrix[i][j]==0){
