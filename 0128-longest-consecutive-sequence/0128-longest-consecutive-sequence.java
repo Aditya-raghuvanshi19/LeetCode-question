@@ -8,11 +8,11 @@ class Solution {
         int longest=0;
         for(int el:ans){
             if(!ans.contains(el-1)){
-                //int x=el;
+                int x=el;
                 int count=1;
-                while(ans.contains(el+1)){
+                while(ans.contains(x+1)){
                     count++;
-                    el+=1;
+                    x+=1;
                 }
                 longest=Math.max(longest,count);
             }
