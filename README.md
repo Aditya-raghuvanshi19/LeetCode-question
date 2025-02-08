@@ -102,4 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0151-reverse-words-in-a-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
