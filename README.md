@@ -113,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
