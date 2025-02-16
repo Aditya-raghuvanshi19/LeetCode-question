@@ -25,7 +25,6 @@ class Solution {
                    max=Math.max(max,j-i+1);
                 }
             }
-
             }
         }
            
