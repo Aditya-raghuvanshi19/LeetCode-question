@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0560-subarray-sum-equals-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
