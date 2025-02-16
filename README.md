@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0792-binary-search) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
