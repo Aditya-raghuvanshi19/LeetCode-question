@@ -13,8 +13,7 @@ class Solution {
 
     }
     public String longestPalindrome(String s) {
-        int l=0;
-        int r=0;
+      
         int max=0;
         String ans="";
         for(int i=0;i<s.length();i++){
