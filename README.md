@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1078-remove-outermost-parentheses) |
@@ -156,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
