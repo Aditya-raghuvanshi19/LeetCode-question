@@ -14,7 +14,6 @@ class Solution {
             ans=(ans+mp.get(s.charAt(i)));
             else
             ans=(ans-mp.get(s.charAt(i)));
-
         }
       ans=(ans+mp.get(s.charAt(s.length()-1)));
         return ans;
