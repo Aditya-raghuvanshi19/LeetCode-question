@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0792-binary-search) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2032-largest-odd-number-in-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
