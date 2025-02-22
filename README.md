@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0349-intersection-of-two-arrays) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
