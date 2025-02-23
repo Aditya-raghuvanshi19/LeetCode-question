@@ -23,15 +23,15 @@ class Solution {
     public boolean isPalindrome(ListNode head) {
         ListNode slow=head;
         ListNode fast=head;
-        while(fast.next!=null && fast.next.next!=null){
+        while(fast.next!=null && fast.next.next!=null){//this condition so that it work for both odd and even length
             slow=slow.next;
             fast=fast.next.next;
-        }
-        ListNode newhead=reverse(slow.next);
+        }//now slow is pointed to first mid if even if odd no two mid.
+        ListNode newhead=reverse(slow.next);//reverse the second half ll ,and head of reverse is pointed by newhead
         ListNode temp1=newhead;
         ListNode temp=head;
-        while(temp1!=null){
-            if(temp.val!=temp1.val){
+        while(temp1!=null){//check till the second half reach null because first it goes to null than after iteration again temp go to null.
+            if(temp.val!=temp1.val){//if in between loop value does not match return false
                 //reverse(newhead);
                 return false;
             }
