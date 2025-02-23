@@ -12,7 +12,7 @@ class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode fast=head;
         ListNode slow=head;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){//this is do because checking that is it given the number which going from end comes and target to delete the head of ll if yes than simply return head.next becuse that will be the head now
             fast=fast.next;
         }
         if(fast==null)
