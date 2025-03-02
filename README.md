@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0075-sort-colors) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0152-maximum-product-subarray) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0055-jump-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
