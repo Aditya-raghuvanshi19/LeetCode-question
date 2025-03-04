@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0485-max-consecutive-ones) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0908-middle-of-the-linked-list) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0792-binary-search) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
