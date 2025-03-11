@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0287-find-the-duplicate-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
