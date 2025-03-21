@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Number Theory
 |  |
