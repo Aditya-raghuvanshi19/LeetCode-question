@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0229-majority-element-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0349-intersection-of-two-arrays) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2032-largest-odd-number-in-string) |
