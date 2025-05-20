@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0053-maximum-subarray) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0118-pascals-triangle) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0409-longest-palindrome) |
