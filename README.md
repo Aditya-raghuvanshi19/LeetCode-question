@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0049-group-anagrams) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0055-jump-game) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1078-remove-outermost-parentheses) |
@@ -309,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
