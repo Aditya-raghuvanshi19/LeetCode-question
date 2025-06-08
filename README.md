@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0409-longest-palindrome) |
+| [0890-lemonade-change](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
