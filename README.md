@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0118-pascals-triangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0349-intersection-of-two-arrays) |
