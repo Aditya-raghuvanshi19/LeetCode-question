@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2047-find-a-peak-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2047-find-a-peak-element-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/1046-max-consecutive-ones-iii) |
+| [2047-find-a-peak-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2047-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/Aditya-raghuvanshi19/LeetCode-question/tree/master/2047-find-a-peak-element-ii) |
 ## String
 |  |
 | ------- |
