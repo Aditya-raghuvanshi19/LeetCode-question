@@ -1,21 +1,22 @@
 class Solution {
-    public static String common(String s1,String s2){
-        StringBuilder str=new StringBuilder();
-        int n=Math.min(s1.length(),s2.length());
-        for(int i=0;i<n;i++){
-            if(s1.charAt(i)==s2.charAt(i))
-            str.append(s1.charAt(i));
-            else
-            break;
-        }
-        return str.toString();
-    }
     public String longestCommonPrefix(String[] strs) {
-        String res=strs[0];
-        for(int i=1;i<strs.length;i++){
-            res=common(res,strs[i]);
+        Arrays.sort(strs);
+        int n=strs.length;
+        StringBuilder ans=new StringBuilder();
+        int i=0;
+        int j=0;
+        while(i< strs[0].length() && j< strs[n-1].length()){
+
+            if(strs[0].charAt(i)==strs[n-1].charAt(j))
+           {
+
+           ans.append(strs[0].charAt(i));
+           i++;
+           j++;
+           }
+           else
+           break;
         }
-        return res;
-        
+        return ans.toString();
     }
 }
