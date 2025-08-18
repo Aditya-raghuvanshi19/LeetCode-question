@@ -1,16 +1,13 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if(s.length()!=t.length())
-        return false;
-        int [] frq=new int[26];
-        for(int i=0;i<s.length();i++){
-            frq[s.charAt(i)-'a']++;
-            frq[t.charAt(i)-'a']--;
-
+        if(s.length()!=t.length())return false;
+        HashMap<Character,Integer> mp=new HashMap<>();
+        for(char c:s.toCharArray()){
+            mp.put(c,mp.getOrDefault(c,0)+1);
         }
-        for(int i=0;i<26;i++){
-            if(frq[i]!=0)
-            return false;
+        for(char c:t.toCharArray()){
+            if(!mp.containsKey(c)|| mp.get(c)==0)return false;
+            mp.put(c,mp.get(c)-1);
         }
         return true;
     }
