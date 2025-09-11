@@ -1,8 +1,11 @@
 class Solution {
     public int f(int i,int j,int n,int[][] matrix,Integer[][] dp){
         if(j<0 || j>=n)return (int)1e9;
-        if(i==0)return matrix[0][j];
-
+        if(i==0){
+            dp[i][j] = matrix[0][j];
+            return dp[i][j];
+           
+        }
         if(dp[i][j] != null)return dp[i][j];
         int top=matrix[i][j] + f(i-1,j,n,matrix,dp);
         int leftdiagonal=matrix[i][j] + f(i-1,j-1,n,matrix,dp);
