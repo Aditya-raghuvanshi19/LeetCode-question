@@ -19,7 +19,7 @@ class Solution {
 
 
         for(int i=0;i<n;i++){
-           dp[n-1][i]=f(n-1,i,n,matrix,dp);
+          f(n-1,i,n,matrix,dp);
         }
         int mini=dp[n-1][0];
         for(int i=1;i<n;i++){
