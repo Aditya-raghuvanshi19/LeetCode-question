@@ -1,35 +1,32 @@
 class Solution {
-    public boolean f(int idx,int target,int[] nums,Integer[][] dp){
-         if(target==0)return true;
-         if(idx==0) return nums[0]==target;
-
-         if(dp[idx][target]!= null) return dp[idx][target]==1 ? true : false;
-
-         boolean nottake= f(idx-1,target,nums,dp);
-         boolean take=false;
-         if(nums[idx] <= target) take=f(idx-1,target-nums[idx],nums,dp);
-
-         dp[idx][target]=  (take | nottake ) ? 1 : 0;
-
-         return  take | nottake;
-
-    }
     public boolean canPartition(int[] nums) {
-        // in this question : 
-        //if we have to check exactly for two subset and both must have total sum equals than it mean the sum of one of the subset is totalsum/2
-        // let sum of one subset is x if other subset sum is equal than x+x=2x=totalsum
-        //x= totalsum/2 
-        // we only have to check that is their exist any subset whose sum=totalsum/2
-
         int n=nums.length;
-        int totalsum=0;
-        for (int i:nums) totalsum+=i;
-        
-        if(totalsum %2 ==1)return false ; 
-        Integer[][] dp=new Integer[n][totalsum/2+1];
+        int totalsum = 0;
+        for(int i:nums) totalsum += i;
 
-        return  f(n-1,totalsum/2,nums,dp);
+        if(totalsum % 2 ==1)return false;
 
+        int sum= totalsum /2 ;
 
+        boolean[] prev = new boolean[sum+1];
+
+        prev[0]= true;
+        if(nums[0] <= sum) prev[nums[0]]=true; // it means we reach at index 0 and the value we need is already preset at the 0th index so we take and target become 0, we get subset
+
+        for(int idx=1;idx<n;idx++){
+            boolean[] curr=new boolean[sum+1];
+            for(int target=1;target<=sum ; target++){
+                boolean nottake= prev[target];
+                boolean take=false;
+                if(target >= nums[idx]) take=prev[target-nums[idx]];
+
+                curr[target]= take|nottake;
+            }
+            prev=curr;
+        }
+ 
+        return prev[sum];
     }
+
+    
 }
